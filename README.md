@@ -1,7 +1,7 @@
 # Merhawi Hailu
 
 
-**Data analytics · Database development · Applied machine learning**
+**Data analytics · Mechanical Engineer· Applied machine learning**
 
 
 I combine a mechanical engineering background with hands-on work in Python, SQL, Power BI and machine learning. I enjoy understanding operational problems, building useful data workflows and explaining results clearly.
